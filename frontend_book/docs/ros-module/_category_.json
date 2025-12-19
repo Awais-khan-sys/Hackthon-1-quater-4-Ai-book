@@ -1,0 +1,8 @@
+{
+  "label": "ROS 2 Fundamentals Module",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Module 1 of a Physical AI textbook explaining ROS 2 as the middleware connecting AI agents to humanoid robots."
+  }
+}
