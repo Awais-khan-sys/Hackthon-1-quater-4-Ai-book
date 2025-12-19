@@ -1,0 +1,18 @@
+Module 3: The AI-Robot Brain (NVIDIA Isaac)
+Target audience:
+
+AI engineers, robotics developers, and advanced students working on humanoid robots
+
+Focus:
+
+Training and controlling humanoid robots using NVIDIA Isaac ecosystem
+
+Perception, navigation, and AI-driven decision making for physical robots
+
+Chapters (Docusaurus, .md files):
+
+Introduction to NVIDIA Isaac Sim & Synthetic Data
+
+Isaac ROS: Accelerated Perception, SLAM, and Navigation
+
+Nav2 for Humanoid Path Planning and Movement
