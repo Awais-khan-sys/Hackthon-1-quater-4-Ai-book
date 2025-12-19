@@ -15,4 +15,4 @@ Introduction to NVIDIA Isaac Sim & Synthetic Data
 
 Isaac ROS: Accelerated Perception, SLAM, and Navigation
 
-Nav2 for Humanoid Path Planning and Movement
+Nav2 for Humanoid Path Planning and Movementcmd

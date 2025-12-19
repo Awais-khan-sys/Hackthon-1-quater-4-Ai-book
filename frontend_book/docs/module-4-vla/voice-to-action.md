@@ -97,4 +97,4 @@ The Voice-to-Action chapter establishes the foundational communication layer bet
 
 ## Next Steps
 
-Continue to the next chapter to learn about [Cognitive Planning with LLMs](./cognitive-planning), where you'll discover how to use Large Language Models for task decomposition and converting natural language goals into executable ROS 2 action sequences.
+Continue to the next chapter to learn about [Cognitive Planning with LLMs](./cognitive-planning.md), where you'll discover how to use Large Language Models for task decomposition and converting natural language goals into executable ROS 2 action sequences.

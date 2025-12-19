@@ -123,8 +123,8 @@ Cognitive planning with LLMs represents a significant advancement in robotics, e
 
 ## Next Steps
 
-Continue to the next chapter to learn about [The Autonomous Humanoid Capstone](./autonomous-humanoid), where you'll implement an end-to-end VLA pipeline that integrates voice commands through planning → navigation → perception → manipulation to build a complete autonomous humanoid system.
+Continue to the next chapter to learn about [The Autonomous Humanoid Capstone](./autonomous-humanoid.md), where you'll implement an end-to-end VLA pipeline that integrates voice commands through planning → navigation → perception → manipulation to build a complete autonomous humanoid system.
 
 ## Previous Topic
 
-If you're just starting, review the [Voice-to-Action](./voice-to-action) chapter to understand the foundational pipeline from voice input to robot response.
+If you're just starting, review the [Voice-to-Action](./voice-to-action.md) chapter to understand the foundational pipeline from voice input to robot response.

@@ -177,5 +177,5 @@ The autonomous humanoid capstone demonstrates the full potential of VLA integrat
 
 This capstone builds on the concepts from previous chapters:
 
-- [Voice-to-Action](./voice-to-action) - Understanding the foundational pipeline from voice input to robot response
-- [Cognitive Planning with LLMs](./cognitive-planning) - Learning how to use Large Language Models for task decomposition and converting natural language goals into executable ROS 2 action sequences
+- [Voice-to-Action](./voice-to-action.md) - Understanding the foundational pipeline from voice input to robot response
+- [Cognitive Planning with LLMs](./cognitive-planning.md) - Learning how to use Large Language Models for task decomposition and converting natural language goals into executable ROS 2 action sequences
